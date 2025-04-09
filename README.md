@@ -22,7 +22,7 @@ Aspiring Software Developer | 3rd Year CSE Student @ St. Joseph's College of Eng
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 
 ### 🛠️ Backend:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://i.pinimg.com/originals/5d/09/32/5d0932d4dd17c926806635893260205e.jpg"/>
 
 ### 🛠️ Databases:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
