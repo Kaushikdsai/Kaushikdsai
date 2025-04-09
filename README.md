@@ -16,13 +16,13 @@ Aspiring Software Developer | 3rd Year CSE Student @ St. Joseph's College of Eng
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ### 🚀 Frameworks & Libraries:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-express-is-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png"/> 
 
 ### ⚙️ Languages & Frontend:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 
 ### 🛠️ Backend:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-express-js-is-a-web-application-framework-for-nodejs-logo-color-tal-revivo.png"/>
 
 ### 🛠️ Databases:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
