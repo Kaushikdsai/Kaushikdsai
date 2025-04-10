@@ -8,7 +8,7 @@ Aspiring Software Developer | 3rd Year CSE Student @ St. Joseph's College of Eng
 - 🌱 Exploring new technologies to solve real-world problems.
 - ⚡ Fun fact: I love solving coding challenges and working on projects.
 
-### 🌐 Portfolio and Links
+### 🌐 Let's Connect!
 - **Social Presence**:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaushik-t/)  
 
