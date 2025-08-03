@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kaushik T
 
-Aspiring Software Developer | 3rd Year CSE Student @ St. Joseph's College of Engineering
+Aspiring Software Developer | 4th Year CSE Student @ St. Joseph's College of Engineering
 
 <img align="right" width="300" height="235" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
